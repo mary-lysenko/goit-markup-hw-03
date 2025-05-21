@@ -382,6 +382,7 @@ ul, ol  {
 
 .page-footer {
     background: #2e2f42;
+    border: 1px solid #000;
 }
 
 .footer-container {
