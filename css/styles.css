@@ -334,7 +334,6 @@ ul, ol  {
   justify-content: center;
   gap: 24px;
   row-gap: 48px;
-
 }
 
 .portfolio-item {
@@ -359,6 +358,7 @@ ul, ol  {
   overflow: hidden;
   margin: 0 auto;
   padding: 32px 16px;
+  border-top: none;
 }
 
 .portfolio-item-subtitle {
@@ -390,7 +390,7 @@ ul, ol  {
 }
 
 .footer-container {
-  
+
 }
 
 .footer-logo {
