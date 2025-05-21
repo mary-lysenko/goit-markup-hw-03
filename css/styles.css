@@ -386,10 +386,11 @@ ul, ol  {
     border: 1px solid #000;
     margin: 0 auto;
     padding: 0 15px;
+    padding: 100px 0;
 }
 
 .footer-container {
-  padding: 100px 0;
+  
 }
 
 .footer-logo {
