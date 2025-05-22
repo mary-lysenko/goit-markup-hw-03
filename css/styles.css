@@ -316,8 +316,8 @@ img {
 .portfolio-text-container {
   padding: 32px 16px;
   margin: 0 auto;
-  border-top: none;
   border: 1px solid #e7e9fc;
+  border-top: none;
 }
 
 .portfolio-item-subtitle {
